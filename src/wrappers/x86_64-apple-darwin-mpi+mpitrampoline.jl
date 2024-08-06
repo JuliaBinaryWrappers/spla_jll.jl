@@ -10,7 +10,7 @@ function __init__()
     JLLWrappers.@generate_init_header(libblastrampoline_jll, LLVMOpenMP_jll, MPItrampoline_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libspla,
-        "lib/libspla.1.5.5.dylib",
+        "lib/libspla.1.6.1.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

@@ -1,6 +1,6 @@
 name = "spla_jll"
 uuid = "c0b6e1fa-1634-5519-836b-ea1958e971dd"
-version = "1.5.5+0"
+version = "1.6.1+0"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"

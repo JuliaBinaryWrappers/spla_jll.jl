@@ -1,726 +1,726 @@
 [[spla]]
 arch = "aarch64"
-git-tree-sha1 = "2e2a49a2c6d8a62fd4bd6ad38c3cca72e969f8a3"
+git-tree-sha1 = "685906bafeffc21c014f85e1cbd919bffa033c3e"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[spla.download]]
-    sha256 = "fa0c8b6e2c9d8a7b7d0a9d2bab2a4e6bd45de48600f9629ea423d7491e45e22a"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "77048b1753fec29c0b237d7801ea8bd0eba443c5d60bb7e424936530bde11d2c"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-apple-darwin-mpi+mpich.tar.gz"
 [[spla]]
 arch = "aarch64"
-git-tree-sha1 = "5a0f092395900d0d3eda3676aab29b4eb1e10ced"
+git-tree-sha1 = "6cee9ffecdc4be67476b5a26e5d14fa43615159e"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[spla.download]]
-    sha256 = "edda21276a8720251e2f1bc3647e3f14fffc95356dd3ccbe9d3a0310999ca744"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "bc01d09c781e7b3a163f3b4a1816d98c6366e568051467bb0a367ea123bb818b"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "aarch64"
-git-tree-sha1 = "d219f3b1f7a676ac5b7e0506fe47d47741e1ddad"
+git-tree-sha1 = "9cbf296be7354da2c00b090b0b4df7a51c3fd5bc"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[spla.download]]
-    sha256 = "392d211d7f9cac2c4c379148c5dd0c32e5c023a69279ea15fcb61c45f81a53ab"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "e61564ec36492af5443c213ea035a2852e9d337c83a789010dd850ef039cc2c3"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-apple-darwin-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "965490ee3c81be1e226e791719c63758383bb28c"
+git-tree-sha1 = "850a0f871cc2281370b1375ecc939f78db042c38"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "317e06923615691dcdbd303c1fafa97e909d162a7c4074cce5becbdb32229d6c"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "01034e8119f04e78276cbe3b88f9ecbc3ca8512a6cc4137d9bc6b4aaef07dc1a"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1e555dbd3215f3cad4e45ec239117704e5c60896"
+git-tree-sha1 = "9267a2a57b1dbf065f2243cb418d472eb263ed26"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "4d293dd479d9243dcb1248194fc0ef4ab56dc961f4e371d41ca269ec8f8b77eb"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "b1729b845502f0595cb1952f7fcc5cb4fee8d6ca9c5eb5f2a6ab4b3ca932937b"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7ada11aa2e55224f1309bd2837acd59eb40a1a0b"
+git-tree-sha1 = "528a6ea8d2154901768345a8d952a26acf3a556a"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "29ec7a9665151e7c2f2e647a60abefc1d934bd8d19d39e1bb1453dc6efe1f990"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "2103bc764839de6055fd2d51452d189171c77637268015149f4a53010431f550"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5762f862a1cf5b2924777a71247e20744bdbd182"
+git-tree-sha1 = "9bea9c3ed71f578f7096763c5f06de6de360b8d5"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "8cdfc1d3eeae401d696e03427a38a273ffcbb70804d97111a86328cd6b3c0440"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "838a312d98803da6f82e0e6c030eb1816e3ef516936ddcf1f61bad432573c505"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be1f01c601fa7470b7fd0fdb8b0ef2ae6f2ab9d7"
+git-tree-sha1 = "951ec2c23ea49664b4571b9f3dbc297c9fe8c3ca"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "95d69537fd32dcf50df56c47407346b1f734d0c2d44a5d18dd102c56cbbe88ce"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "f21ddc2852aeb845914933f7adf04ecfb614a7aaaa14a0760d9ded6911ab3406"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0dbde7440285672604fff3df617a5018c8735ded"
+git-tree-sha1 = "12fb2c1b467b049243433d7a11845ba19fac07d3"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "ffd5805a59ac47f7d0b01964452f0921205834d9d382b25fb81824848a854efb"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "d0773cc03816aceacbe79f1e027e70f2526cd15e8005a3b0dcc3bb47625e24c7"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d6f89911afe309ec851e64ea98b464d0daedb7ed"
+git-tree-sha1 = "589966a3b3bf9b34f00239003c5b0bb2a3534181"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "160d28d571a14611950102ef8db0575d279ebda82d9cff082377c37817f3e3e3"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "bf7436d24610f6db974245b1fb3c5715d27f95c2e2bfff826913361b0e551fe2"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "023cf044c75d79721b31c1f8f032caafd3c9be3c"
+git-tree-sha1 = "a9a5b4eda9a408e3ab75e2671615cf318bdca09b"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "6a9cd102669c39759604abfd7af4d25bb56dbd593eeb66b72808ada7fb70d750"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "cecf684d7080085dfc4ab34ad093c604d186435a5b47d946c95bcbe60850b3a7"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "475303aed54afc4b4ad6f755c7509b955a5f1994"
+git-tree-sha1 = "c00818ad73bfcf477ae3322c914a4dcbadc25b8e"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "4547f9718c49362ae87cea74214e1016622aa626225048c96e2854c6801340b5"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "ef5dae4de00da92dadea3e0b9a91e86d1b03d6a37481bf87070fabfeb24a5fd5"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e614d195e7eac05e03c2f3c3fc10097c7ca0b93"
+git-tree-sha1 = "ea1d96be9a245ca9a78d167529048b4588647a0b"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "a1e43d61dad4a9d7697ad3263bd31d9b99d3e5e91105ac62e733337d33a559be"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "55392d7f9bbe93d8bac01becb468bae1eb62b2e1caa4def174a2cb145a55a2a1"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bebf5452547dabb441942868d415034919789f36"
+git-tree-sha1 = "b698c4fc9955c14a5396c4546ad0bfd7ff15e48e"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "657544af2144266b03d760d664f5af71f3d4fbe16d4d0c16ada85b860108753c"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "a433980c27e513402196fd5cb363b00713a5afa4a9493364f89f03746022e9f4"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "25e1de675a07e15133d64bd794b51889df6b8380"
+git-tree-sha1 = "dae1de197531a51ec6b0c011f2f387566761c1bc"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "506461592aa56c620009328ea7c1439849d05bac9d15269ea70f027e9db6a53f"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "b193adabdf572ba9e5b7373a86ac96130349d88612e52b6e036508484999ca1e"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8dab12458e27acbf7330fe6befa536ca2eff0f2a"
+git-tree-sha1 = "e580ec7650e1f4043e09bf1c3c869fefae45c46a"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "044009597e11750798b9d65afd23833a5b39dc75a43d04746b68548816f1b5dd"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "86a7b58a3cfc112b458d8b6b4028f239931673cc75ff5aa0b0d7d60c55ae87a6"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc72f5cd9a307ff494cd56c10d1e7968bbf4a6d1"
+git-tree-sha1 = "a943c9aae9f11c20a1a35e32a5ce8e2bbac1c505"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "64e450678dd92a945d96a4a69fe548a37d1a123fba8f3a4b2f3ffad8333db86e"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "7affba9512e23314ca956f03070dd777bf89915131bc6819b5d10be0aaa5009b"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9c28675819b97028729c899649265e8ec79b0147"
+git-tree-sha1 = "20c73d1efdfd0208e3e8726a826f2c869d8d643f"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "f85738ee6f1156f0f8b24cf10dc451d3b3adf65fd297ae9c27466263e81ee270"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "8ec36718000ba95914dddf6eb6f5b16e7e50da28fb78d82cfc1f8ec447ef04be"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9c8f57692a78b2386054c370e40f5bbad94bdfb0"
+git-tree-sha1 = "c5380f7770fabb7d54be8a29e943d408b81fb690"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "b2bab2892c85bc11ddb9fbf90a855be0da1b6549162ee589454f689f1c43086c"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "10effa29516e9bc215d8c0bcd96497bcbe79a1dd808b267dc05035a96d69c607"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b36887f4fbd1119678fd9acd7a7f367344ec0e4a"
+git-tree-sha1 = "30edac7e8521d5224d1c6c1f8db1f5afdcaeae01"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "2d62d22630be2b85575082e6e64bf60aa31372b821b0ba5bd4a13c6d770cfbd2"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "224ce3babf1af898d61ec4fd50ced6bb501cfafa8b0d629a87ae4413297b0825"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5d8bf4adf94d48d301707490ac106e53ee871841"
+git-tree-sha1 = "17e7400c0a0cd378f97fd1f32ad065bad3c6cd7e"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "a9d8caa79c8d4ac97f645886364c6ad2dc138d6b38c79bc070d0f6a01ff73d0d"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "ac0c1d940cabc9280741f18ee10ab1579b498756096b6323863c20e61c282999"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "aba9e3a8af034718a0a499fed2cc8187d3cb7346"
+git-tree-sha1 = "0d7a001be557107798b2e14e89a546cb908b029b"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "3417b4c5308012f06604d4e4d4941ea1099fc3478b7d8076bb8994f67a2969da"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "831b5d3e2af61eb73714381084bb65dff2e3415656be044835c267b44a8a0e3c"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3a44ffc0833cd58fe7259750834bd5d4c658a75d"
+git-tree-sha1 = "94fe79b9bd7cc370d9eb8b3eb472a1e66ed17ed4"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "614a14ea34888acf304c7d2982efc122bfc0322c7f740cea7e19b8c077bd9302"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "9ed8dfe4024147356b295f02afe18f134e9171ad430b582e9310a22d805b4d00"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2f382f740e37b113bd5aab3a537e4f1ccf1818d4"
+git-tree-sha1 = "ea6c77c7da5dde0aacfcda3523c058813fad826a"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "02b2b546c41499f18cf3c0f78b8166c8a13b8283ef43360f2d2b63a664b2b046"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "3fb8507deb50818c9a3d12dc621a605bc5c1ee4e5d4349ded078d890d675de4e"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fcac51db92da6e17aa80bbe63943b61aeb509478"
+git-tree-sha1 = "d5d7eb19cd2b531560f1dccd0a3e9352ebc1c138"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "00bae7e56e6062b8b9438acc5001fd67c1846de96d43f14be17ab6f0d7f92525"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "726c2281756654e4b6774cb989ded4a26f8f8a766b7105f4eb5cf886ac842d80"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "40338356aa15c32fc09f7ba495ec50b78eafe2cd"
+git-tree-sha1 = "5a711a6828e6b2113ebf55523b86fc3d94450835"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "1718fd0700a87782ff350b2bfd54d071d1abb4736173d559b00aab7883fef980"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "1f05d7d3efc1f2fd72a5590280fb5e4a66e7ec0c6d3230b15df92d4b754e0660"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "818ab256e33eb79e2fda683d604f5d2bc5a9d30c"
+git-tree-sha1 = "d26ca09b343cf366548e2ba0cc941f2a5f102630"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "b4c2d04a876682e1681fc70cf6873ce9c41b8b2318bf39423cce13a99503bb8a"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "dd889e45fe601c9b55221bd278aea4056422f409efa953dc7f04afd09719d043"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d51a382c42336ae2532c31ac3f5a589cfa011bb9"
+git-tree-sha1 = "2cefc195a5d4aa3e971cadc0faf18eaf48cfb20f"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "0c23bfc176c652117a93ca66f3ff54fe75d8f46d956061247eac2ebd1857ecd5"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "5680b7143c11689ae95078a7779ddf0f75a92470a27ea4b58dc723d323abf695"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6af8252ed9621419b48e6c86c2496283dd6b7493"
+git-tree-sha1 = "d8992bac5dcb3f9bfed5965f0815bcae0936b58c"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "2a5230c04262679c7b6064d54c4b508ab2873d590c5a5b3268717250fd256166"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "4943ad9828326d97831a71523d830bc4e2bd9eb3a6169a8033edcfd777022ed0"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "43839084135aa9e07e72dff7b5f8d497eba70421"
+git-tree-sha1 = "672fd5fa98c3cd4188cc8fb745bdc03b033b037c"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "99b9edce82b83ab78ebf5947d14745353188ca4aee9d6087bdb05e1ca7c9d9bc"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "8c9e126ba19b61c2d925ed6526c34f633652b22ae78f3eb68dba6a329f8f6c2a"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4cd8113b17fb89be074e5c4213e54e2d8fa0d0ff"
+git-tree-sha1 = "8b302d497e9c8cd023935c9c747beec782b1cc1a"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "edebdb61c36e476ed470a120084289cabf345d68006961667a87978213c9a7cc"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "2940d19cf6b0345bb2715a6ee22023b55f80f7a362202b252401cd15f6d773a9"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "061bf47b8d026046a0cd1df33daf9d7da179b760"
+git-tree-sha1 = "4497b7095cd50f63c6083d141bee4117a6832d05"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "2fbf872af107b9bc9c6ddc9936a4e4a25d1f12bfda810e2211121ee1c6718c2f"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "e6118fa9c678926e80de806478e477466cae57b4054dff4bcf4dc2f337716216"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8f7d47e3eb0fc69e791d2c1dc5a39d5b217aa941"
+git-tree-sha1 = "ad01486cbb9f65c87a8dd739c12b537b597fad07"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "545259ecd23c0a3f1491576bcfe9204ccebc1e07d3f8516e00417c8f3f718c9f"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "31bc465b175f9804a82792586379868cb285994084b9fb5ae41146476912b25e"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e10b71839beeaf89e12299287bd6fc00f32a0a3d"
+git-tree-sha1 = "307250d22d44290760139529c363cc168feecc66"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "59912460f5e55eade3add260a71badb3d53f72062a227f368c442aca79e8fc61"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "962f8fd0995c11d440ed22092c8aabbfd8c97cbdcb0cdd1125f5f4fcf084fef2"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b39cc7cbe49213c1072eda745a8298ab1f4d8111"
+git-tree-sha1 = "68e5d30cf429faa810a0eaebd7fb2ff56f19c858"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "7ffa41ddcd4169ceb864f24ee1f3d968ae7e67e9db49c0fc9ab7e0e84aaffd83"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "ab437c740bb6cb57c1dd82f7c64407d648596510c57ae14e19d66832f7460990"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4cb89217fe86c05978bd4ececd8b9940804a7c56"
+git-tree-sha1 = "5fbdf34b77d910d7a783dce65b2fd326d7b3e31a"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "bafd99f19f1b1b81a9d8b6b15d6a553e073bddbeb4ce18d44412cc61fef8ba5c"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "425a702ad2f782843454dfab2cd3be22146d9e8182b62cfa1168d8bc45287913"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c32060760691422a0237d6b97904ab9659565c35"
+git-tree-sha1 = "4488f63bf38213a209b104b6616897909f28bcbd"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "7ddd04a6567d501158e53899dceee16533f40325ac0c50535ec9415536acd212"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "990acc0539678ed1cdec78ed183d25daa6af2928675f50bfe92c61b087c8d1e9"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2f0466b300b5c9d9ef9f43e2288707506a538148"
+git-tree-sha1 = "9dc7caee511eb1f38071c9873a83c9985400c7a1"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "e757bd2fce3d1c70a3c59c62001b1ef2674cf9172049e0e07b0c83479660882c"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "0c07380e4efb080de852108f6926cc7d197c593f6b7aa27214d95378be3d1df2"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b73aa2d8de7e1980c0c4e645a2a8497faf3bf67d"
+git-tree-sha1 = "a620a66b7e7b9c433e9fbd80cf3e380d1e745aff"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "852d8873049827f37bd9bce1d0c673d0fe7808569de2757e0f74abc7c846d553"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "0ac53854c56f48209e1231c5651d72af2c66bbda9d0dd35f717997c3726a584c"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "66d119b614ab732db3cea8245ed330fbd8e74531"
+git-tree-sha1 = "aa4a5fa2ee3af305c2590894f3b68edf55597e11"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "535de795871debc5aea259b5cf44899e6ca9c0987a886f3cec1ae78255218942"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "ac387432b84e9b22a4631e7821edd5f22fd13bccd629ef5d19ea53e1dd37ff31"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e07cb3f24a1f1265aed8d84c9385c9b350e0b53"
+git-tree-sha1 = "41f8f933ecb19501307d660b5793d510522cb85a"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "c9eea31b3bb080bcb3f1b0f4b7283449110d0aa246f9b7253c1e0253d14b4b04"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "2d19ed199cc4baf67416ddafb46e51617a8a8658bdc9f17084e99cd666a4c2e9"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e9cacf3fc37037630d3a6366195c8ff23c26410a"
+git-tree-sha1 = "8030be14660c58b53526f6eebce41d15329dab27"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "c04a31c874ce4840d9e8379f7bbba87502cd352e75d3b347bdd366ffcba9c5cc"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "29f02b79ea07297f1b6151c3f334aac7adbdd223e0950c360313fa0f6f914859"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fc454152c77887c7dc13ab3f54155d67a8ba5ab7"
+git-tree-sha1 = "ecd70240444354445ea952e5d44de4c041b99b50"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "17cd55bb0f56a55b9a256c3bb4506e399f1567332da8c350008258b9a4672085"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "2a25c7017f5110d45d7a4f9180a5b594005c587d95a70c625656127ef3a5df15"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "04addd8209ac286a85974a052ee37fa3b0e1f3f5"
+git-tree-sha1 = "7333b5894939f2b88bd2377f1bdc75ffdaf12814"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "1a87b830300e7e6b344aed4c9f981266a82e5e04fd8ccd5ce9fe01144cb5eeed"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "ce48b4cf465a6c18d1654ce7c8d621fe2c4f3cf564996642561e0ed783c771cd"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4e8a3b3d1ef63df4c733d1e8dc31c329270cf6a2"
+git-tree-sha1 = "9043deb6e3939ccedbc0316f874df5a2b92c628b"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "2cc46ff2939edd2407efddf9eec59be402ea793dd0bfa3ee72f9616fd90d727f"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "bfb968f668e13da994b40770c72a6818a11c17f73c27a375c5ac5ad1e5791789"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1b37b9fe72aa10789765db83dbb93cfa449d761"
+git-tree-sha1 = "6a10c9c3469ae492fc1cd48b97797bb32b63e194"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "b4700d0b8649784ff2ea79f6a2c6af48eef48fc368576f6790033235b316fe9b"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "3f9e1a5ed37a47cbf0bfaa196c448c26ffecb20cefa03240e279e5ea0daac437"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "24f7cd0b2663e1f148f6360537a3e2a3f2a24b3c"
+git-tree-sha1 = "30bdd38bea0304d75745a0a2d472755ca6a99747"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "1e9bdd7bff48baed61c6774858784807fa732898213ee55c9f6d9be8a51dec46"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "291c4f85294b804627c959dc477bfb638e963669a1f90e50f9d060569db7f458"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "x86_64"
-git-tree-sha1 = "2ec6bca05e175fc5e5085e9d98e56878cf9e1e1f"
+git-tree-sha1 = "b74844606287098a5b4e34a01a90102d12104446"
 lazy = true
 mpi = "mpich"
 os = "macos"
 
     [[spla.download]]
-    sha256 = "a8d1ff48f964c0a94934ef5b3ac6427b4a32f3dc374f527b966ab9d0171716e7"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "1aa3b51d7724ac928800e27c904042ce800166bb1c5f00c59985b95a27e116bf"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[spla]]
 arch = "x86_64"
-git-tree-sha1 = "c44fc19e7c1e1437fa498ad4b04d469fb66ec569"
+git-tree-sha1 = "679482e27a1a09af18ac85d629b5457d585f558e"
 lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
     [[spla.download]]
-    sha256 = "dbd5bbcc871bb4a21b40265466a6048e74b6357a5f78f585c6476aef0117fea3"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "b1f2e1e54a405fda58ff30e1b7f6982257a093381b3220f16522f435dfef54b8"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "x86_64"
-git-tree-sha1 = "285bf6191918688134f68b495335be78fee9c0ee"
+git-tree-sha1 = "a616099a59b5de912089f26f0e73340b402cd14c"
 lazy = true
 mpi = "openmpi"
 os = "macos"
 
     [[spla.download]]
-    sha256 = "fcf704d1301a4df13357148ac5f87ff740036d768cca9d1e53f6c798b90ed186"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "8b93de5020fece0b84556af057f9120d0b2ad8f474dce1edeec2f20d7a48099c"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d002f1544f5bc52d6761c3e289ce6e79faa8d02a"
+git-tree-sha1 = "aaa1e4b8b1f1608bae0b01c857292233fe72af17"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "a35b74deba9574747746a18561304acf309d0650b2fd57781ca25bea2b4fa157"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "47e48eb2ca315da8f37abbe7f985bb7aa8f5b42a9c43ee9fb7f0a6313a002b42"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0825d89b7f271eb517eae953fc4063dd5bc4b6f4"
+git-tree-sha1 = "35242de2117f2de11208e34782255672dbd70372"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "edb4af2c112a86121e5debd3445921246f2836fabb3627c87b3995826059b891"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "b4d0dbf5732a43045d01d427de9077464ed3aae2ff4ef23ae92cacf809225a50"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1e398bb7db5f8e645ce9d4b00a2a0e7626bf86df"
+git-tree-sha1 = "c1a0f83c16e365be0f05e5a540ec91fc91d64534"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "28826cafd3e05d346ab12512cc3ad5e19e8cf5b0ce5bb22da9214b31f4ad6144"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "c765d6a899bb1f9de6c491cf02c8e2199e3dae76d73e24fd0380b30663cb3c20"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c5e70ce2365a009c49914ababea68c7977ae3779"
+git-tree-sha1 = "b058f3e36d44fefa322314f5e2d82b82b83af4c0"
 lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "54a1cc29f27897d411859a6c5a3e1ea463e1d437bb60d7468a1a6aef7fd9ccd8"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "bdc78fc2556f2c71189c01ea0d80889d5a8b26e2c12f5438bece99bd0fe2e581"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2b1643d3e195781817666eed53cc87337118691d"
+git-tree-sha1 = "73db5927d743f4593971aafb2dba93f5e1074ee5"
 lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "7e3e9c2b0fe2086023221214a2d8fdf78c102c6ca5f17d57aa0f5c44fb6c4f84"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "0699342ea3a5a91d18077aa97bd894d25a3610d6e6cb7dbb871984f2a3d270cc"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ed3e2ffc53ec9b70a0206293e8e49b1a4b40dd2"
+git-tree-sha1 = "ce24c30be3051a2c90edcf929de434ce16b9a905"
 lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "e03977d966691d26055ec55621f0dba491e18865a7bab3735f999e7af6e6342c"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "2ae30d33ad3f0e507fdd2fb1a5500b783151703f7d34e9a06881cf80b85590a6"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "39ad45e88703091821e03843a01940ae301faa64"
+git-tree-sha1 = "d62010d10cd8e8aea195bd4af960cc4da687676f"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "fa06b2f108a611fe780d30911f633c8a4028a96897fd22893741dfd93ebc82e5"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "3f6e4bf7ab9d95867bfa4d90d2f4ff7fadfd935ca1286b95a2885f5112400cf5"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4bfbe47108fe845dd6be33e012a594a0fa0462a7"
+git-tree-sha1 = "0de6fe855df73f68e997c1fbead80020935019b6"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "15df41591939233abce6a93b599c90292a50578894e7418d53d5c46ef4976ad5"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "2415e9a3ce83a85dc0b0c1034d30956a281ee6b476e43de106e231b8f9b7500c"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "26d5dfae980d65b9a401717f6838379e953c6763"
+git-tree-sha1 = "29055aa9dc39e0d03494a39c3abebbc11c516813"
 lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "62fafd1474a084aa7475269d40dabcbd19943709696c76646bc3fda2a6ab8691"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "f942f30bff40bfd82a27aea1f2389c172897abcccf837b95de7b44715518e8f0"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[spla]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e617b475c1461a143f718763a81faa19cebb607c"
+git-tree-sha1 = "e378bd3935015c22d9e7d2ec99b9ca06f71912f1"
 lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[spla.download]]
-    sha256 = "43e476d2bd8a4604c4dc9e924d7a8bee744352571afaed107fe3faca8e3e8ee9"
-    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.5.5+0/spla.v1.5.5.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "60cc0e1f0e323d2fbb9de6eb2700db56b1e3092d59f0a8a63c0819a7987b5444"
+    url = "https://github.com/JuliaBinaryWrappers/spla_jll.jl/releases/download/spla-v1.6.1+0/spla.v1.6.1.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
